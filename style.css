@@ -1,7 +1,43 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap"); /*      Global Classes      */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap"); /*      Global Classes      */
+* {
+  font-family: "Poppins", sans-serif;
+}
+
 button, button:focus {
   outline: none !important;
   box-shadow: none !important;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.color-primary {
+  color: #1F4690;
+}
+
+.color-primary-bg {
+  background: #1F4690;
+}
+
+.color-second {
+  color: #FFE5B4;
+}
+
+.color-second-bg {
+  background: #FFE5B4;
 }
 
 /*# sourceMappingURL=style.css.map */
