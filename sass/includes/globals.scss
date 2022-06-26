@@ -1,7 +1,15 @@
 /*      Global Classes      */
 *{
     font-family: $font-poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+a, a:focus, a:hover{
+    text-decoration: none;
+}
+
 button, button:focus{
     outline: none !important;
     box-shadow: none !important;
