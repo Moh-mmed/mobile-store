@@ -11,7 +11,7 @@ include('Template/_banner-area.php');
 /*  include banner area  */
 
 /*  include top sale section */
-// include('Template/_top-sale.php');
+include('Template/_top-sale.php');
 /*  include top sale section */
 
 /*  include special price section  */

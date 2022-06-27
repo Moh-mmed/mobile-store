@@ -18,6 +18,10 @@
     <!-- Style -->
     <link rel="stylesheet" href="./style.css">
     <title>Mobile Store</title>
+    <?php
+    // require functions.php file
+    require('functions.php');
+    ?>
 </head>
 
 <body>
